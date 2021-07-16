@@ -1,0 +1,5 @@
+/task_env/**
+/interview_tasks/interview_tasks/__pycache__/**
+/interview_tasks/interview_tasks/settings.py
+/interview_tasks/form_validation_tasks/migrations/**
+/interview_tasks/form_validation_tasks/__pycache__/**
